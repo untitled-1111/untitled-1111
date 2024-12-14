@@ -4,7 +4,7 @@
 
 <p align="center">
   <a aria-label="Github Top Languages" href="https://github.com/untitled-1111?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=untitled-1111&title_color=059ef5&bg_color=292929&text_color=dbdbdb&border_radius=30&hide_border=true&layout=pie&hide=cmake,batchfile,shell,perl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=untitled-1111&title_color=059ef5&bg_color=292929&text_color=dbdbdb&border_radius=10&hide_border=true&layout=pie&hide=cmake,batchfile,shell,perl">
   </a>
 </p>
 
