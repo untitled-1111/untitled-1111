@@ -7,4 +7,4 @@
 
 
 #
-![Profile Views](https://visitcount.itsvg.in/api?id=untitled-1111&label=Profile%20Views&color=12&icon=6&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=untitled-1111&style=for-the-badge&abbreviated=true)
