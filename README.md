@@ -9,12 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a aria-label="Spotify" href="https://open.spotify.com/user/315nqpr6bmofuvh74dwdewki2rby">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=315nqpr6bmofuvh74dwdewki2rby&count=3">
-  </a>
-</p>
-
 <p align="center"> 
   <a aria-label="BlastHack" href="https://www.blast.hk/members/442386/">
     <img src="https://img.shields.io/badge/BLASTHACK-%2326A5E4.svg?style=for-the-badge&logo=hackthebox&color=555555&logoColor=059ef5">
